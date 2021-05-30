@@ -1,0 +1,258 @@
+2021-05-29 18:07:30 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:08:35 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:09:17 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:10:06 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:13:17 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:26:20 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:53:52 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:54:20 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:56:32 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:58:14 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:58:26 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 18:59:00 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:12:40 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:12:40 ERROR MutanteDTO:92 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:12:40 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:14:08 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:15:01 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:15:01 ERROR MutanteDTO:92 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:15:01 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:25:15 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:25:15 ERROR MutanteDTO:91 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:25:15 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:25:30 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:25:30 ERROR MutanteDTO:91 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:25:30 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:25:41 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:25:41 ERROR MutanteDTO:92 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:25:41 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:26:04 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:29:54 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:29:54 ERROR MutanteDTO:105 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:29:54 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:30:05 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:30:05 ERROR MutanteDTO:105 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:30:05 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:30:16 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:30:16 ERROR MutanteDTO:105 - java.lang.ArrayIndexOutOfBoundsException: 6
+2021-05-29 19:30:16 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 6
+2021-05-29 19:30:59 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:31:28 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:39:26 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:43:09 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:45:44 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:46:06 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 19:52:44 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:00:49 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:00:49 ERROR MutanteDTO:82 - java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
+2021-05-29 20:00:49 ERROR NegocioMutantes:22 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
+2021-05-29 20:03:36 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:03:44 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:03:46 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:04:00 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:04:07 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 20:07:46 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:05:41 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:05:41 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:05:53 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:08:56 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:08:56 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:09:07 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:09:07 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:09:17 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:09:29 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:09:54 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:09:54 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:27:50 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:27:50 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:27:53 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:27:57 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:28:13 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:54:51 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:54:51 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:54:57 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:55:25 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:55:37 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:55:42 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:55:49 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:55:54 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:57:06 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:57:06 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:57:12 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:58:40 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 21:58:40 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 21:58:45 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 21:59:00 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 22:00:12 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 22:00:12 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 22:00:15 INFO  ServicioMutantes:31 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 22:02:01 INFO  ChallengeMutantsConfig:39 - Conexion establecida con Redis
+2021-05-29 22:02:01 INFO  ChallengeMutantsConfig:57 - RedisTemplate Inicializado de forma correcta
+2021-05-29 22:02:30 INFO  ServicioMutantes:35 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 22:02:36 INFO  ServicioMutantes:35 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 22:02:43 INFO  ServicioMutantes:35 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-29 22:03:05 INFO  ServicioMutantes:35 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 11:40:42 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 11:40:42 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:32:39 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:32:39 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:33:57 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:33:57 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:34:01 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:34:01 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:35:42 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:35:42 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:35:45 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:35:45 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:36:15 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:36:15 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:38:13 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:38:13 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:38:33 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:38:33 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:40:54 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:40:54 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:44:23 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:44:23 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:53:16 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:53:16 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:53:38 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:53:38 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 12:54:02 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 12:54:02 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:01:22 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:01:22 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:02:21 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:02:21 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:02:35 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:02:36 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:04:08 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:04:08 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:04:17 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:04:17 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:04:48 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:04:48 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:05:49 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:05:49 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:06:16 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:06:16 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:07:10 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:07:39 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:07:50 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:08:50 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:08:50 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:08:57 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:09:24 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:09:24 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:09:41 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:11:21 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:11:21 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:11:26 ERROR NegocioMutantes:87 - Ocurrio un error al obtener DNA de BD: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-30 13:11:26 ERROR NegocioMutantes:54 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un error al obtener DNA de BD: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-30 13:11:28 ERROR NegocioMutantes:87 - Ocurrio un error al obtener DNA de BD: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-30 13:11:30 ERROR NegocioMutantes:72 - Ocurrio un error insertando DNA en BD: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-30 13:12:18 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:12:18 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:13:20 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:13:20 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:20:54 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:20:54 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:22:14 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:22:14 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:23:05 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:23:05 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:44:30 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:45:04 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:45:55 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:47:20 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:47:46 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:48:36 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:49:17 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 13:49:17 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 13:49:29 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:54:46 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:56:22 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 13:58:51 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:01:45 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:02:09 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:02:09 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:02:13 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:03:54 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:03:54 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:18:56 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:18:56 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:18:58 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:20:26 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:20:26 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:20:28 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:20:28 ERROR MutanteDTO:129 - java.lang.ArrayIndexOutOfBoundsException: 2
+2021-05-30 14:20:28 ERROR NegocioMutantes:54 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 2
+2021-05-30 14:20:28 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:20:45 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:20:45 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:20:47 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:20:47 ERROR MutanteDTO:129 - java.lang.ArrayIndexOutOfBoundsException: 2
+2021-05-30 14:20:47 ERROR NegocioMutantes:54 - Ocurrio un error realizando la identificacion del DNA: Ocurrio un errror analizando DNA de forma diagonal: 2
+2021-05-30 14:20:47 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:22:12 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:22:12 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:22:14 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:22:14 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:23:28 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:23:28 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:23:31 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:23:31 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:24:05 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:24:05 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:24:07 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:24:07 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:24:27 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:24:27 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:24:30 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:24:30 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:25:50 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:25:51 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:25:52 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:25:52 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:26:43 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:26:43 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:26:45 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:26:45 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:33:40 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:33:40 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:33:42 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:33:42 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:35:10 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:35:10 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:35:16 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:35:42 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 14:37:53 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:37:53 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:46:09 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:46:09 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:46:47 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:46:47 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:49:39 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:49:39 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 14:50:06 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 14:50:06 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:00:19 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 15:00:19 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:00:22 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 15:00:22 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:00:24 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:00:24 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:01:03 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 15:01:03 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:01:06 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 15:01:06 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:01:06 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:01:06 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:01:07 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:02:08 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 15:02:08 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:02:11 INFO  ChallengeMutantsConfig:44 - Conexion establecida con Redis
+2021-05-30 15:02:11 INFO  ChallengeMutantsConfig:72 - RedisTemplate Inicializado de forma correcta
+2021-05-30 15:02:11 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:02:11 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
+2021-05-30 15:02:12 INFO  ServicioMutantes:40 - Ingresando al servicio de identificacion de mutantes !!
